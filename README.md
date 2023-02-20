@@ -1,6 +1,8 @@
-# aihacks4good
-AIHacks4Good website
+# AIHacks4Good website
 
-Instructions for set-up are in "2. Placeholder Website". This Google Doc can be found inside the Hackathon Google Folder shared with the hackathon team.
+Initial website code for AIHacks4Good 2022, an ethical AI hackathon. The final website can be found at https://aihacks4good.github.io/
 
-IMPORTANT: I've uploaded the src folder, which is the mainly where the website code is. By following set-up, all the default files created can be left as-is.
+### Set-up 
+Instructions can be found [here](https://docs.google.com/document/d/1710MRLXeFZ5-tGGyZp9BBMC139tPFfhsYUbjlKOPgnI/edit?usp=sharing).
+
+NOTE: I've uploaded the src folder, which is the mainly where the website code is. By following set-up, all the default files created can be left as-is.
